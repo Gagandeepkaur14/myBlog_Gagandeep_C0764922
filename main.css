@@ -1,0 +1,130 @@
+
+body {
+    background-color: #f0efe2;
+    font: normal .8em 'trebuchet ms', arial, sans-serif;
+}
+header {
+    padding: 10px;
+    text-align: left;
+    background: #242323;
+    color: white;
+    height: 100px;
+}
+header h1{
+    font: normal 2em 'century gothic', arial, sans-serif;
+    color: #acacac;
+    margin: 0 0 15px 0;
+    padding: 15px 0 5px 0
+}
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font: normal 150% 'century gothic', arial, sans-serif;
+    color: #acacac;
+    margin: 0 0 15px 0;
+    padding: 15px 0 5px 0
+}
+img {
+    float: left;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 500px;
+}
+nav {
+    width: 100%;
+    height: 72px;
+    padding: 0;
+    background: #ff0000
+}
+
+nav ul,
+nav ul li {
+    float: left;
+    margin: 0;
+    padding: 0
+}
+
+nav ul li {
+    list-style: none
+}
+
+nav ul li a {
+    letter-spacing: .1em;
+    font: normal 100% arial, sans-serif;
+    display: block;
+    float: left;
+    height: 37px;
+    padding: 29px 26px 6px 26px;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: 0 0
+}
+
+main {
+    padding: 10px;
+    width: 65%;
+    float: left;
+
+}
+aside {
+    padding: 10px;
+    width: 30%;
+    float: right;
+
+}
+ol {
+    margin: 2px 0 22px 17px
+}
+
+ol li {
+    font-size: medium;
+    list-style-type: circle;
+    margin: 0 0 6px 0;
+    padding: 0 0 4px 5px
+}
+
+p
+{
+    text-align:justify;
+    line-height: 25px;
+    font-size: 18px;
+
+}
+a {
+    outline: 0;
+    text-decoration: none;
+    color: #fd5bff
+}
+
+a:hover {
+    text-decoration: none
+}
+
+footer {
+    clear: both;
+    width: 100%;
+    font: normal 100% 'lucida sans unicode', arial, sans-serif;
+    height: 33px;
+    padding: 24px 0 5px 0;
+    text-align: center;
+    background: #242323;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: .1em
+}
+
+
+
+
+
+
+
+
+
+
